@@ -1,0 +1,25 @@
+评价指标：
+    1)收益：
+        区间收益率(年化)
+        Alpha
+        正收益天数比例
+    2)风险/波动：
+        区间波动率
+        Beta
+        负收益天数比例
+        负收益波动率
+        最大回撤
+        峰谷差值
+        Probability of reaching objective
+        Efficiency Ratio
+        Price Density
+    3)收益风险比：
+        Information Ratio
+        夏普比率
+        Treynor Ratio
+        Calmar Ratio
+        Sortino Ratio
+    4)收益曲线形态：
+        Skewness
+        kurtosis
+        跟踪误差年化
